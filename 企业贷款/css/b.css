@@ -1,0 +1,6 @@
+* {/* 与页面边距为0 */
+	margin: 0px;
+	/* 取消所有样式 */
+	list-style: none;
+	text-decoration: none;
+}

@@ -1,0 +1,490 @@
+.head {
+	width: 100%;
+	height: 44px;
+	background-color: black;
+	background-position: center;
+}
+
+.head-1 {
+	width: 100%;
+	height: 84px;
+	background-color: #fdfdfd;
+	border-bottom: 1px solid #999;
+}
+
+.head-1-1 {
+	width: 960px;
+	height: 84px;
+	margin: auto;
+}
+
+.head-1-2 {
+	width: 169px;
+	height: 84px;
+	background-image: url(../img/555_06.jpg);
+	float: left;
+	background-repeat: no-repeat;
+}
+
+.head-1-3 {
+	width: 63px;
+	height: 40px;
+	display: block;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+
+.head-1-3 span {
+	color: #cccccc;
+	font-size: 3px;
+}
+
+.head-1-4 {
+	color: #0079c1;
+	width: 62px;
+	height: 20px;
+	text-align: center;
+}
+
+.hover {
+	width: 740px;
+	height: 35px;
+	float: right;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 13px;
+}
+
+.hover span {
+	width: 88px;
+	height: 32px;
+	display: block;
+	float: left;
+	font-weight: 200;
+}
+
+.hover span a {
+	color: #000000;
+}
+
+.hover span:hover {
+	border-bottom: 5px solid #00457c;
+}
+
+.hover span:hover a {
+	font-weight: 900;
+}
+
+.hover-1 {
+	width: 960px;
+	height: 40px;
+	margin: auto;
+}
+
+.hover-1-1 {
+	width: 139px;
+	height: 16px;
+	color: #666;
+	font-size: 12px;
+	padding: 10px 0;
+}
+
+.hover-2 {
+	width: 960px;
+	height: 200px;
+	background-image: url(../img/抵押贷款-恢复的_03.jpg);
+	margin: auto;
+}
+
+.hover-3 {
+	width: 960px;
+	height: 237px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.hover-3-1 {
+	width: 658px;
+	height: 238px;
+	border: 1px solid #E9E9E9;
+	float: left;
+}
+
+.hover-3-1 span {
+	width: 658px;
+	height: 40px;
+	line-height: 40px;
+	background-color: #f8f8f8;
+	font-size: 12px;
+	display: block;
+	font-weight: 900;
+	border-bottom: 1px solid #E9E9E9;
+	float: left;
+}
+
+.hover-3-1 li {
+	float: right;
+	font-size: 12px;
+	margin-top: -28px;
+	margin-right: 20px;
+}
+
+.hover-4 {
+	width: 640px;
+	height: 103px;
+	margin: auto;
+	clear: both;
+	border-bottom: 1px dashed #999999;
+	margin-top: 50px;
+}
+
+.hover-4-1 {
+	width: 32px;
+	height: 30px;
+	background-image: url(../img/抵押贷款-恢复的_10.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	margin-top: 20px;
+}
+
+.hover-4-2 {
+	width: 301px;
+	height: 83px;
+	float: left;
+	margin-top: 20px;
+}
+
+.hover-4-2 p:nth-child(1) {
+	color: #666;
+	font-size: 14px;
+}
+
+.hover-4-2 p:nth-child(2) {
+	color: #CCCCCC;
+	font-size: 12px;
+}
+
+.hover-4-3 {
+	width: 253px;
+	height: 25px;
+	margin-top: 30px;
+	float: left;
+	margin-left: 10px;
+}
+
+.hover-4-3 p:nth-child(2) {
+	font-size: 10px;
+	color: #666;
+}
+
+.hover-4-3 p input:nth-child(1) {
+	width: 163px;
+	height: 23px;
+}
+
+.hover-4-3 p input:nth-child(2) {
+	margin-left: 10px;
+}
+
+.hover-4-4 {
+	width: 660px;
+	height: 67px;
+}
+
+.hover-4-4 a {
+	display: block;
+	width: 157px;
+	height: 28px;
+	margin: auto;
+	margin-top: 40px;
+}
+
+.hover-5 {
+	width: 282px;
+	height: 220px;
+	float: right;
+	border: 1px solid #E9E9E9;
+}
+
+.hover-5-1 {
+	width: 282px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 12px;
+	font-weight: 900;
+	background-color: #F8F8F8;
+	border-bottom: 1px solid #E9E9E9;
+}
+
+.hover-5-2 {
+	width: 233px;
+	height: 136px;
+	margin: auto;
+	margin-top: 10px;
+}
+
+.hover-5-2 p {
+	font-size: 10px;
+	line-height: 25px;
+}
+
+.hover-5-2 span {
+	color: #666666;
+}
+
+.span {
+	width: 960px;
+	height: 650px;
+	margin: auto;
+}
+
+.span-1 {
+	width: 660px;
+	height: 300px;
+	float: left;
+}
+
+.span-1-1 {
+	width: 644px;
+	height: 35px;
+}
+
+.span-1-1 ul {
+	width: 645px;
+	height: 40px;
+	font-size: 12px;
+	margin: auto;
+	margin-top: 20px;
+	margin-left: -30px;
+}
+
+.span-1-1 ul img {
+	float: left;
+}
+
+.span-1-1 ul li {
+	float: left;
+}
+
+.span-1-1 ul li p:nth-child(2) {
+	color: #999999;
+}
+
+.span-1-1 ul li span {
+	color: #999999;
+}
+
+.span-1-1-1 {
+	margin-left: 10px;
+}
+
+.span-1-1-2 {
+	margin-left: 30px;
+}
+
+.span-1-1-3 {
+	margin-left: 20px;
+}
+
+.span-1-1-4 {
+	margin-left: 63px;
+}
+
+.span-2 {
+	width: 658px;
+	height: 174px;
+	float: left;
+	border: 1px solid #E9E9E9;
+	margin-top: 30px;
+}
+
+.span-2-1 {
+	width: 658px;
+	height: 40px;
+	line-height: 40px;
+	background-color: #f8f8f8;
+	font-size: 12px;
+	display: block;
+	font-weight: 900;
+	border-bottom: 1px solid #E9E9E9;
+	float: left;
+}
+
+.span-2-2 {
+	width: 620px;
+	height: 45px;
+	margin-left: 40px;
+	margin-top: 60px;
+}
+
+.span-2-2 a {
+	width: 115px;
+	height: 46px;
+	display: block;
+	float: left;
+}
+
+.span-2-2 a:nth-child(1) {
+	background-image: url(../img/666_03.jpg);
+	background-repeat: no-repeat;
+}
+
+.span-2-2 a:nth-child(2) {
+	background-image: url(../img/666_05.jpg);
+	background-repeat: no-repeat
+}
+
+.span-2-2 a:nth-child(3) {
+	background-image: url(../img/666_05.jpg);
+	background-repeat: no-repeat;
+}
+
+.span-2-2 a:nth-child(4) {
+	background-image: url(../img/666_09.jpg);
+	background-repeat: no-repeat;
+}
+
+.span-2-2 a:nth-child(5) {
+	background-image: url(../img/666_12.jpg);
+	background-repeat: no-repeat;
+}
+
+.span-2-3 a:nth-child(1) {
+	background-image: url(../img/666_14.jpg);
+	background-repeat: no-repeat;
+}
+
+.span-2-3 a:nth-child(2) {
+	background-image: url(../img/666_15.jpg);
+	background-repeat: no-repeat
+}
+
+.span-2-3 a:nth-child(3) {
+	background-image: url(../img/666_16.jpg);
+	background-repeat: no-repeat;
+}
+
+.span-2-3 a:nth-child(4) {
+	background-image: url(../img/666_17.jpg);
+	background-repeat: no-repeat;
+}
+
+.span-2-3 a:nth-child(5) {
+	background-image: url(../img/666_18.jpg);
+	background-repeat: no-repeat;
+}
+
+.span-2-3 {
+	width: 620px;
+	height: 45px;
+	margin-left: 40px;
+}
+
+.span-2-3 a {
+	width: 115px;
+	height: 46px;
+	display: block;
+	float: left;
+}
+
+.span-3 {
+	width: 283px;
+	height: 648px;
+	float: right;
+}
+
+.span-3-1 {
+	width: 283px;
+	height: 458px;
+	border: 1px solid #E9E9E9;
+}
+
+.span-3-2 {
+	width: 263px;
+	height: 391px;
+	margin: auto;
+	font-size: 13px;
+	margin-top: 10px;
+}
+
+.span-3-2 p:nth-child(2) {
+	border-bottom: 1px dashed #E9E9E9;
+	padding: 10px 0;
+	line-height: 25px;
+}
+
+.span-3-2 h5:nth-child(2),
+h5:nth-child(3),
+h5:nth-child(4) {
+	font-size: 12px;
+	border-bottom: 1px dashed #E9E9E9;
+	padding: 10px 0;
+}
+
+.span-3-3 {
+	width: 281px;
+	height: 169px;
+	border: 1px solid #E9E9E9;
+	margin-top: 20px;
+}
+
+.span-3-3 li {
+	float: right;
+	font-size: 12px;
+	margin-top: -28px;
+	margin-right: 20px;
+	color: #999;
+}
+
+.span-3-4 {
+	width: 155px;
+	height: 85px;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-size: 12px;
+	line-height: 25px;
+	font-weight: 300;
+}
+
+.in {
+	width: 100%;
+	height: 180px;
+	background-color: #F5f5f5;
+	border-top: 1px solid #d0d0d0;
+	margin-top: 20px;
+}
+
+.in-1 {
+	width: 940px;
+	height: 18px;
+	margin: auto;
+	font-size: 10px;
+	color: #999999;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.in-2 {
+	font-size: 12px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.in-2 a {
+	color: #666;
+}
+
+.in-3 {
+	font-size: 12px;
+	color: #999;
+	margin-top: 5px;
+	text-align: center;
+}
+
+.in-4 {
+	width: 112px;
+	height: 40px;
+	margin: auto;
+	margin-top: 40px;
+	background-image: url(../img/【北京贷款】北京贷款公司_北京银行贷款_北京个人贷款-好贷网_58.jpg);
+}
